@@ -103,11 +103,28 @@ Here’s an example structure for the project:
 
 This project is licensed under the **MIT License**. Feel free to fork, modify, and distribute this tool as per your needs.
 
-## Contributions
+## 🌟 Let's Connect!
 
-If you'd like to contribute to this project, feel free to fork the repository, open issues, or submit pull requests. Contributions are always welcome!
+Hello, Hacker! 👋 We'd love to stay connected with you. Reach out to us on any of these platforms and let's build something amazing together:
+
+🌐 **Website:** [https://yogsec.github.io/yogsec/](https://yogsec.github.io/yogsec/)  
+📜 **Linktree:** [https://linktr.ee/yogsec](https://linktr.ee/yogsec)  
+🔗 **GitHub:** [https://github.com/yogsec](https://github.com/yogsec)  
+💼 **LinkedIn (Company):** [https://www.linkedin.com/company/yogsec/](https://www.linkedin.com/company/yogsec/)  
+📷 **Instagram:** [https://www.instagram.com/yogsec.io/](https://www.instagram.com/yogsec.io/)  
+🐦 **Twitter (X):** [https://x.com/yogsec](https://x.com/yogsec)  
+👨‍💼 **Personal LinkedIn:** [https://www.linkedin.com/in/bug-bounty-hunter/](https://www.linkedin.com/in/bug-bounty-hunter/)  
+📧 **Email:** abhinavsingwal@gmail.com
 
 ---
+
+## ☕ Buy Me a Coffee
+
+If you find our work helpful and would like to support us, consider buying us a coffee. Your support keeps us motivated and helps us create more awesome content. ❤️
+
+☕ **Support Us Here:** [https://buymeacoffee.com/yogsec](https://buymeacoffee.com/yogsec)
+
+Thank you for your support! 🚀
 
 **Designed by YogSec** - A cybersecurity startup focused on vulnerability assessment and security research.
 

@@ -3,9 +3,9 @@
 **Web History Analysis** is an advanced tool for classifying and categorizing URLs from browser history logs using machine learning techniques. This project leverages deep learning models, specifically an LSTM (Long Short-Term Memory) network, to classify URLs into predefined categories based on historical browsing data. It’s ideal for security researchers, data analysts, or anyone interested in analyzing web browsing activity and categorizing web traffic effectively.
 
 <br>
-
+<div style="align:center">
 ![screenshot](https://github.com/yogsec/Web-History-Analysis/blob/main/Hack-with-ai.jpeg)
-
+</div>
 <br>
 <div align="center" style="margin: 30px 0;">
   <a href="https://www.whatsapp.com/channel/0029Vb68FeRFnSzGNOZC3h3x">
